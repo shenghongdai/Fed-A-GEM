@@ -28,7 +28,7 @@
 ```
 python3 main.py --algo sgd --dataset mnist --model cnn --num_channels 1 --local_ep 1 --lr 0.01 --num_classes 10 --booster
 ```
-+ To run A-GEM using Rotated MNIST data and our FedGP algorithm, execute the following command:
++ To run A-GEM using Sequential CIFAR-10 data and our FedGP algorithm, execute the following command:
 ```
 python3 main.py --algo agem --dataset cifar10 --num_tasks 5 --num_classes 10 --booster
 ```
