@@ -14,7 +14,6 @@
 + FedProx: `--algo fedprox`
 + A-GEM: `--algo agem`
 + DER: `--algo der`
-+ Ideal: `--algo joint`
 
 ## Datasets
 
