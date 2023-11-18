@@ -2,6 +2,9 @@
 ![R2-1](https://github.com/shenghongdai/FedGP/assets/58225543/da0549ec-ba9f-497b-93bd-35b4af61707d)
 ![R3-2d](https://github.com/shenghongdai/FedGP/assets/58225543/a61d27ed-0ea7-4945-9cb9-de4d2d60ea7e)
 ![R3-3](https://github.com/shenghongdai/FedGP/assets/58225543/fe77841c-1142-42e6-9015-95e1bf23f5b1)
+[R3-2d.pdf](https://github.com/shenghongdai/FedGP/files/13400402/R3-2d.pdf)
+[R3-3.pdf](https://github.com/shenghongdai/FedGP/files/13400401/R3-3.pdf)
+[R2-1.pdf](https://github.com/shenghongdai/FedGP/files/13400400/R2-1.pdf)
 
 ## Setup
 
