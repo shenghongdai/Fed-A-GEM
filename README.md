@@ -1,4 +1,7 @@
 # FedGP
+![R2-1](https://github.com/shenghongdai/FedGP/assets/58225543/da0549ec-ba9f-497b-93bd-35b4af61707d)
+![R3-2d](https://github.com/shenghongdai/FedGP/assets/58225543/a61d27ed-0ea7-4945-9cb9-de4d2d60ea7e)
+![R3-3](https://github.com/shenghongdai/FedGP/assets/58225543/fe77841c-1142-42e6-9015-95e1bf23f5b1)
 
 ## Setup
 
