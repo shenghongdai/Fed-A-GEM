@@ -36,7 +36,7 @@ def args_parser():
     parser.add_argument('--gpu', type=int, default=0, help="GPU ID, -1 for CPU")
     parser.add_argument('--verbose', action='store_true', help='verbose print')
 
-    parser.add_argument('--booster', action='store_true', help='use FedGP or not')
+    parser.add_argument('--booster', action='store_true', help='use Fed-A-GEM or not')
     parser.add_argument('--forgetting', action='store_true', help='print forgetting or not')
     parser.add_argument('--num_exp', type=int, default=5, help='number of experiments')
     parser.add_argument('--algo', type=str, default=None, help='algorithm')
