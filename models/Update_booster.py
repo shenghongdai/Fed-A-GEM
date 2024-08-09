@@ -139,7 +139,7 @@ class LocalUpdate(object):
                     buffer.add_data(examples=not_aug_inputs, labels=labels, logits=log_probs.data)
                 store_grad(self.net.parameters, self.grad_xy, self.grad_dims)
 
-                # FedGP
+                # Fed-A-GEM
                 if w_glob_er is not None:
                     dot_prod = torch.dot(self.grad_xy, w_glob_er)
                     if dot_prod.item() < 0:
