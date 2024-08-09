@@ -167,7 +167,7 @@ def training(trial, args):
         w_glob = FedAvg(w_locals)
         net_glob.load_state_dict(w_glob)
 
-        # FedGP
+        # Fed-A-GEM
         if (args.booster and ((it+1) % args.booster_interval == 0)):
             if ((args.fed_interval is not None) and (((it+1) % args.fed_interval)!=0)):
                 pass
