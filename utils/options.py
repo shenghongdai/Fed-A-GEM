@@ -41,7 +41,7 @@ def args_parser():
     parser.add_argument('--num_exp', type=int, default=5, help='number of experiments')
     parser.add_argument('--algo', type=str, default=None, help='algorithm')
     parser.add_argument('--fed_interval', type=int, default=None, help='less communication')
-    parser.add_argument('--booster_interval', type=int, default=1, help='less FedGP')
+    parser.add_argument('--booster_interval', type=int, default=1, help='less Fed-A-GEM')
     parser.add_argument('--mnist_permuted', action='store_true', help='use permuted MNIST or rotated MNIST')
     parser.add_argument('--seed', type=int, default=0, help='random seed')
 
